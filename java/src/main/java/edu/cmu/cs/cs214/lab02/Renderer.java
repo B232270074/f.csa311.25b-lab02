@@ -2,6 +2,9 @@ package edu.cmu.cs.cs214.lab02;
 
 import edu.cmu.cs.cs214.lab02.shapes.Shape;
 
+/**
+* asdfasdf.
+*/
 public class Renderer {
   private Shape shape;
 
@@ -10,7 +13,7 @@ public class Renderer {
   }
 
   public void draw() {
-    System.out.println(shape.getShapeName() + " printed"+"\nIts area is " + shape.getArea());
+    System.out.println(shape.getShapeName() + " printed" + "\nIts area is " + shape.getArea());
 
   }
 }

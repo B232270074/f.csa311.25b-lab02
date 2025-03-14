@@ -1,13 +1,13 @@
 package edu.cmu.cs.cs214.lab02.shapes;
 
 /**
- * Circle хэлбэрийг тодорхойлох класс.
+ * asdfasdfasdf.
  */
 public class Circle implements Shape {
   private double radius;
 
   /**
-   * Circle класс үүсгэх байгуулагч.
+   * sadfdsfsfa.
    *
    * @param radius тойргийн радиус
    */
@@ -16,27 +16,27 @@ public class Circle implements Shape {
   }
 
   /**
-   * Радиусыг авах.
+   * fasdfdsf.
    *
-   * @return радиус
+   * @return radius
    */
   public double getRadius() {
     return radius;
   }
 
   /**
-   * Радиусыг шинэчлэх.
+   * fsdfsadfa.
    *
-   * @param radius шинэ радиус
+   * @param radius sdfasdf
    */
   public void setRadius(double radius) {
     this.radius = radius;
   }
 
   /**
-   * Тойргийн талбайг тооцоолох.
+   *fsadfsadg.
    *
-   * @return талбай
+   * @return S
    */
   @Override
   public double getArea() {
@@ -44,7 +44,7 @@ public class Circle implements Shape {
   }
 
   /**
-   * Фигура нэрийг авах.
+   * dsfasd.
    *
    * @return "Circle"
    */
