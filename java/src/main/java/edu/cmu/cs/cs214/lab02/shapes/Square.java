@@ -28,3 +28,6 @@ public class Square implements Shape {
     return "Square";
   }
 }
+/**
+* Constructs a Square with the specified side length.
+*/
