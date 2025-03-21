@@ -30,3 +30,6 @@ public class Main {
     System.out.println(rectangle.getArea());
   }
 }
+/**
+ * fasdfasfas.
+ */
